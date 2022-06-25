@@ -1,0 +1,12 @@
+.Header{
+    display: flex;
+    flex-direction: column;
+    flex-basis: 100%;
+    max-width: 65rem;
+    min-width: 800px;
+    
+}
+
+.seperate{
+    color: red;
+}
